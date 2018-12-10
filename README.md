@@ -1,4 +1,5 @@
 Struktur:
+
     Home:
       |--> Hochzeitsambiente (Innen und Außen)
       |--> Kleider
